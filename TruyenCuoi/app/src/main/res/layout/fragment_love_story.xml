@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"
+            android:background="#9C27B0">
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/title_love_story"
+                android:gravity="center|center_vertical"
+                android:textSize="@dimen/size_title_love_story"
+                android:textColor="@color/white"
+                android:textStyle="bold"/>
+    </LinearLayout>
+    <ListView
+            android:id="@+id/lovestory"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    </ListView>
+</LinearLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TruyenCuoi</string>
+    <string name="action_settings">Settings</string>
+    <string name="congai">Con Gái</string>
+    <string name="contrai">Con Trai</string>
+    <string name="congnghe">Công Nghệ</string>
+    <string name="dangian">Dân Gian</string>
+    <string name="hocduong">Học Đường</string>
+    <string name="khoahoc">Khoa Học</string>
+    <string name="sayxin">Say Xỉn</string>
+    <string name="trangquynh">Trạng Quỳnh</string>
+    <string name="tieulam">Tiếu Lâm</string>
+    <string name="title">Bạn đang chọn thể loại:</string>
+    <string name="yhoc">Y Học</string>
+    <string name="nga">Nga</string>
+    <string name="anh">Anh</string>
+    <string name="nuockhac">Nước Khác</string>
+    <string name="title_foreign">Bạn đang chọn Quốc Gia:</string>
+    <string name="title_menu">Truyện Cười Sưu Tầm</string>
+    <string name="title_love_story">Truyện ưu thích</string>
+</resources>

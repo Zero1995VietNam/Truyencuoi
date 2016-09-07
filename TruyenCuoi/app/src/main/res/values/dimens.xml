@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="magin_left_button">20dp</dimen>
+    <dimen name="magin_top_button">15dp</dimen>
+    <dimen name="width_button">100dp</dimen>
+    <dimen name="textsize">20sp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="magin_topbutton">10dp</dimen>
+    <dimen name="titleStory">20sp</dimen>
+    <dimen name="conten_story">18sp</dimen>
+    <dimen name="description">18sp</dimen>
+    <dimen name="size_title_love_story">20sp</dimen>
+    <dimen name="size_text_item">25sp</dimen>
+    <dimen name="width_image_item">150dp</dimen>
+    <dimen name="height_image_item">150dp</dimen>
+    <dimen name="size_text_chapter">18sp</dimen>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/mainmenu"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_main_menu">
+    <Button
+            android:id="@+id/btn_offline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button_ofline"
+            android:layout_centerInParent="true"
+            android:text="Đọc Truyện Offilne"
+            android:textColor="@color/white"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+    <Button
+            android:id="@+id/btn_online"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btn_offline"
+            android:background="@drawable/bg_button_online"
+            android:layout_centerInParent="true"
+            android:text="Đọc Truyện Online"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+</RelativeLayout>
